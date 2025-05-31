@@ -22,6 +22,14 @@
     </div>
 </div>
 
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+    <div style="text-align: left;">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunyg78"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyangmin&layout=compact&bg_color=DEG,a9a9a9,696969&title_color=000000&text_color=000000&hide_border=true&v=2"/>
+    </div>
+</div>
+
  ## 📈 Activities and Experiences
   | **이름** | **활동** | **장소** |
   |:--------:|:--------:|:--------:|
@@ -34,10 +42,3 @@
   | **LG CNS AI 지니어스**  | SW 및 AI 개념 & 원리 학습 | 미정 |
   | **UNIST SuperComputing Youth Camp 2025**  |x| 울산과학기술원 |  
 
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-    <div style="text-align: left;">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunyg78"/> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyangmin&layout=compact&bg_color=DEG,a9a9a9,696969&title_color=000000&text_color=000000&hide_border=true&v=2"/>
-    </div>
-</div>
