@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6aa8,100:d345c0&height=240&text=Hello! it's kimyangmin page!&animation=&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6aa8,100:d345c0&height=240&text=Hello!&animation=&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👍 Introduce </h2>  
