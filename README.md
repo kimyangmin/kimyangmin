@@ -1,6 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6aa8,100:d345c0&height=240&text=Hello!&animation=&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d23dd,100:8535b1&height=240&text=반가워요&animation=&fontColor=ffffff&fontSize=70" />
 </div>
+    
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👍 Introduce </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 성일정보고등학교에 재학중인 박영민입니다!<br>프로그래밍에 대해 탐구하고, 여러가지 언어를 배우고 있습니다! </div> 
