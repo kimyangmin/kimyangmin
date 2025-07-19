@@ -39,6 +39,6 @@
   | **IT 네트워크 동아리** | Docker, AWS EC2, Spring Boot 입문 | 성일정보고등학교 |
   | **Java 프로그래밍 방과후** | Java 초급개발자 단계 학습 | 성일정보고등학교 |
   | **사이버가디언즈** | 정보보안 기초 지식 학습 |성일정보고등학교|
-  | **LG CNS AI 지니어스**  | SW 및 AI 개념 & 원리 학습 | LG CNS |
+  | **2025 LG CNS AI 지니어스**  | SW 및 AI 개념 & 원리 학습 | LG CNS |
   | **UNIST SuperComputing Youth Camp 2025**  |x| 울산과학기술원 |  
 
