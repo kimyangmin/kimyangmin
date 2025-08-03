@@ -40,5 +40,5 @@
   | **Java 프로그래밍 방과후** | Java 초급개발자 단계 학습 | 성일정보고등학교 |
   | **사이버가디언즈** | 정보보안 기초 지식 학습 |성일정보고등학교|
   | **2025 LG CNS AI 지니어스**  | SW 및 AI 개념 & 아두이노 실습 | LG CNS |
-  | **UNIST SuperComputing Youth Camp 2025**  |HPC를 이용한 병렬 프로그래밍 기초| 울산과학기술원 |  
+  | **UNIST SuperComputing Youth Camp 2025**  |HPC를 사용하여 병렬 프로그래밍의 기초 실습| 울산과학기술원 |  
 
