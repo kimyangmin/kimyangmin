@@ -9,7 +9,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">👍 Introduce</h2>
     <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
-        성일정보고등학교에 재학중인 박영민입니다!<br />
+        성일정보고등학교에 재학중인 김양민입니다!<br />
         프로그래밍에 대해 탐구하고, 여러가지 언어를 배우고 있습니다!
     </div>
 </div>
