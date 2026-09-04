@@ -1,6 +1,6 @@
 <div align="center">
     <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=0:1d23dd,100:8535b1&height=240&text=반가워요&animation=&fontColor=ffffff&fontSize=70"
+        src="https://capsule-render.vercel.app/api?type=waving&color=0:1d23dd,100:8535b1&height=240&text=나가세요&animation=&fontColor=ffffff&fontSize=70"
     />
 </div>
 
